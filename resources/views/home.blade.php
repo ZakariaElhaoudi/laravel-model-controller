@@ -3,7 +3,7 @@
 
 @section('content')
 
-<h1 class="text-center text-light">FILM</h1>
+<h1 class="text-center text-light">Movies</h1>
 
 
     <div class="row">
